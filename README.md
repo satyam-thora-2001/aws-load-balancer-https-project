@@ -36,17 +36,65 @@ This project demonstrates a highly available and secure AWS architecture using A
 - High Availability
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-- "EC2 Instances" (Screenshot 2026-05-08 211832.png)
-- "Apache Server Setup" (Screenshot 2026-05-08 211910.png)
-- "Apache Server Setup 2" (Screenshot 2026-05-08 211949.png)
-- "Target Group Healthy Status" (Screenshot 2026-05-08 212037.png)
-- "Application Load Balancer" (Screenshot 2026-05-08 212129.png)
-- "HTTPS Listener" (Screenshot 2026-05-08 212151.png)
-- "ACM SSL Certificate" (Screenshot 2026-05-08 212257.png)
-- "Route 53 DNS Record" (Screenshot 2026-05-08 212355.png)
-- "Final Website Output" (Screenshot 2026-05-08 212433.png)
-- "HTTPS Secure Connection" (Screenshot 2026-05-08 212456.png)
+### 🖥️ EC2 Instances
+
+![EC2](Screenshot%202026-05-08%20211832.png)
+
+---
+
+### 🌐 Apache Server Setup
+
+![Apache](Screenshot%202026-05-08%20211910.png)
+
+---
+
+### 🌐 Apache Server Setup 2
+
+![Apache2](Screenshot%202026-05-08%20211949.png)
+
+---
+
+### 🎯 Target Group Healthy Status
+
+![TargetGroup](Screenshot%202026-05-08%20212037.png)
+
+---
+
+### ⚖️ Application Load Balancer
+
+![ALB](Screenshot%202026-05-08%20212129.png)
+
+---
+
+### 🔒 HTTPS Listener
+
+![HTTPS](Screenshot%202026-05-08%20212151.png)
+
+---
+
+### 🛡️ ACM SSL Certificate
+
+![ACM](Screenshot%202026-05-08%20212257.png)
+
+---
+
+### 🌍 Route 53 DNS Record
+
+![Route53](Screenshot%202026-05-08%20212355.png)
+
+---
+
+### ✅ Final Website Output
+
+![Website](Screenshot%202026-05-08%20212433.png)
+
+---
+
+### 🔐 HTTPS Secure Connection
+
+![Secure](Screenshot%202026-05-08%20212456.png)
 
 ## 🎯 Outcome
 
