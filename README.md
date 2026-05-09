@@ -96,6 +96,18 @@ This project demonstrates a highly available and secure AWS architecture using A
 
 ![Secure](Screenshot%202026-05-08%20212456.png)
 
+---
+
+### 🚀 Launch Template
+
+![LaunchTemplate](Screenshot%202026-05-09%20214431.png)
+
+---
+
+### 📈 Auto Scaling Group
+
+![ASG](Screenshot%202026-05-09%20214605.png)
+
 ## 🎯 Outcome
 
 Successfully deployed a secure AWS architecture using Application Load Balancer with HTTPS and custom domain integration.
